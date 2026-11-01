@@ -1,0 +1,21 @@
+{
+  "name": "ist24-react-homepage",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-multi-date-picker": "^4.5.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
